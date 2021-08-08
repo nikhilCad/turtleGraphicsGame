@@ -38,3 +38,6 @@ screen.onkey(backward, "Down")
 screen.onkey(left, "Left")
 screen.onkey(right, "Right")
 screen.listen()
+
+turtle.mainloop() 
+#don't close window autmatically and close only if I close the window
